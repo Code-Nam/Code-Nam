@@ -1,9 +1,12 @@
 ![Banner](./images/banner.png)
 
-<h2 style="text-align: center;">🍄 ᴀʙᴏᴜᴛ ᴍᴇ 🍄</h2> 
+<div style="text-align: center;">
 
-**<p style="text-align: center;"> Passionate french student in Web Development</p>**
+## :mushroom: ᴀʙᴏᴜᴛ ᴍᴇ :mushroom:
 
+**Passionate french student in Web Development**
+
+</div>
 
 * :school: IIM Digital School
 
@@ -13,8 +16,15 @@
 
 * :airplane: UK, Belgium, Netherlands, Germany, Austria, Italy, Spain Canada, US, Vietnam, Thailand 
 
+<div style="text-align: center;">
 
-<h2 style="text-align: center;">🧰 Languages & Tools 🧰</h2>
+## :toolbox: ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ :toolbox:
+
+</div>
+
+<div style="align= center;">
+
+<!-- ![HTML](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg) -->
 
 <p align="center"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -32,4 +42,4 @@
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> 
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> 
-</p>
+</p> 
