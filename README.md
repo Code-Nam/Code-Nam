@@ -1,6 +1,6 @@
 ![Banner](./images/banner.png)
 
-<div style="text-align: center;">
+<div align= "center">
 
 ## :mushroom: ᴀʙᴏᴜᴛ ᴍᴇ :mushroom:
 
@@ -16,7 +16,7 @@
 
 * :airplane: UK, Belgium, Netherlands, Germany, Austria, Italy, Spain Canada, US, Vietnam, Thailand 
 
-<div style="text-align: center;">
+<div align= "center">
 
 ## :toolbox: ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ :toolbox:
 
