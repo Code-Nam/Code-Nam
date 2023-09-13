@@ -12,6 +12,8 @@
 
 * :e-mail: annam.tran@edu.devinci.fr
 
+* 💬 French (Native), English (C1), Chinese (B1), Vietnamese (B1)
+
 * :heart: Travelling, Cooking, Gaming
 
 * :airplane: UK, Belgium, Netherlands, Germany, Austria, Italy, Spain Canada, US, Vietnam, Thailand 
@@ -38,5 +40,8 @@
     <img src="./icons/ILLUSTRATOR.svg" alt="illustrator" width="40" height="40"/>
     <img src="./icons/PHOTOSHOP.svg" alt="photoshop" width="40" height="40"/>
     <img src="./icons/BLENDER.svg" alt="blender" width="40" height="40"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamTRAN&layout=compact)](https://github.com/AnnamTRAN)
 </div> 
 
+![GuineaPig-Pirate](./images/guineapig_pirate.gif)
