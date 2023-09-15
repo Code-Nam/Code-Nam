@@ -45,3 +45,5 @@
 </div> 
 
 ![GuineaPig-Pirate](./images/guineapig_pirate.gif)
+
+![GuineaPig-Carrot](https://i.pinimg.com/originals/46/b7/fd/46b7fd446211a2e4aaf41da2bf838462.gif)
