@@ -44,6 +44,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamTRAN&layout=compact)](https://github.com/AnnamTRAN)
 </div> 
 
-![GuineaPig-Pirate](./images/guineapig_pirate.gif)
+<div>
 
-![GuineaPig-Carrot](https://i.pinimg.com/originals/46/b7/fd/46b7fd446211a2e4aaf41da2bf838462.gif)
+<img src="./images/guineapig_pirate.gif" alt="guinea-pig-pirate" width=300 height=200>
+
+
+<img src="https://i.pinimg.com/originals/46/b7/fd/46b7fd446211a2e4aaf41da2bf838462.gif" alt="guinea-pig-carrot" width=300 height=200>
+
+</div>
