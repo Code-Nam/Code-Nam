@@ -44,7 +44,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamTRAN&layout=compact)](https://github.com/AnnamTRAN)
 </div> 
 
-<div>
+<div align="center">
 
 <img src="./images/guineapig_pirate.gif" alt="guinea-pig-pirate" width=300 height=200>
 
