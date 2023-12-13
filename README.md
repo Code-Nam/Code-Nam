@@ -2,7 +2,7 @@
 
 <div align= "center">
 
-## :mushroom: ᴀʙᴏᴜᴛ ᴍᴇ :mushroom:
+## 🍄 ᴀʙᴏᴜᴛ ᴍᴇ 🍄
 
 **Passionate french student in Web Development**
 
@@ -20,7 +20,7 @@
 
 <div align= "center">
 
-## :toolbox: ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ :toolbox:
+## 🧰 ʟᴀɴɢᴜᴀɢᴇꜱ & ᴛᴏᴏʟꜱ 🧰
 
 </div>
 
