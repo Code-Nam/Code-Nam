@@ -41,7 +41,7 @@
     <img src="./icons/PHOTOSHOP.svg" alt="photoshop" width="40" height="40"/>
     <img src="./icons/BLENDER.svg" alt="blender" width="40" height="40"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnnamTRAN&layout=compact)](https://github.com/AnnamTRAN)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Code-Nam&layout=compact)](https://github.com/Code-Nam)
 </div> 
 
 <div align="center">
